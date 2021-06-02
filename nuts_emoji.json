@@ -1,0 +1,20 @@
+[
+    {
+        "code": "W",
+        "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "name": "Wales",
+        "title": "flag for Wales",
+    },
+  {
+        "code": "EL",
+        "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "name": "England",
+        "title": "flag for England",
+    },
+  {
+        "code": "SL",
+        "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "name": "Scotland",
+        "title": "flag for Scotland",
+    }
+]
